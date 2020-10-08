@@ -6,13 +6,14 @@
  * Made By MaterializeCSS.com
  */
 body{
-  font-family: 'Dancing Script', "Comic Sans MS";
+  font-family: 'Caveat', cursive;
+  font-size: 1.2em;
 }
 
 nav a,
 nav .brand-logo{
   color: #efebe9;
-  font-size: 2.7em;
+  font-size: 2.5em;
 }
 
 nav ul a{
@@ -49,7 +50,7 @@ p {
 
 .header-subtitle{
   margin-top: 10%;
-  font-size: 1.5em;
+  font-size: 1.7em;
 }
 
 .col-service{
@@ -107,6 +108,7 @@ p {
 
 .btn-register{
   width: 100%;
+  font-family: 'Caveat', cursive;
 }
 
 .register-icon{
@@ -137,6 +139,7 @@ p {
 
 .btn-hosts{
   width: 100%;
+  font-family: 'Caveat', cursive;
 }
 
 footer.page-footer {
@@ -154,5 +157,6 @@ footer.page-footer {
   color: #ef9a9a;
 }
 
-.container-footer{
+.footer-copyright{
+  margin-right: 70%;
 }
