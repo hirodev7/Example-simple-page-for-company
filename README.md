@@ -1,4 +1,4 @@
-<h2>This is simple landing page with example for one Bnb. I translated in Italian and Bulgarian languages. For this progect I use modern Materialize framework</h2>
+<h2>This is simple landing page with example for one Bnb. I translated in Italian and Bulgarian languages. For this progect I use Materialize modern framework</h2>
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52591976/95462961-7f377b00-0978-11eb-9ba9-08106f32818e.png"width =600/>
