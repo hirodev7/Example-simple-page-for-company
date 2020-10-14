@@ -10,9 +10,6 @@
   <img src="https://user-images.githubusercontent.com/52591976/95462980-865e8900-0978-11eb-995c-89bfe718da9a.png"width =600/>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/52591976/95462980-865e8900-0978-11eb-995c-89bfe718da9a.png"width =600/>
-</p>
-<p align="center">
   <img src="https://user-images.githubusercontent.com/52591976/95464054-d0943a00-0979-11eb-9a9a-dad7c8edc5cf.png"width =600/>
 </p>
 <p align="center">
