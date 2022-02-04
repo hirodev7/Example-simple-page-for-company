@@ -18,5 +18,5 @@
 <div>
 <h1> LICENSE <h1/>
 
-<h3> This project is licensed under the MIT License - see the <a href="https://github.com/BlueButterflies/Example-simple-page-for-company/blob/main/LICENSE">LICENSE.md<a/> file for details.<h3/>
+<h3> This project is licensed under the MIT License - see the <a href="https://www.udemy.com/course/creare-una-landing-page/"<a/> file for details.<h3/>
 <div/>
