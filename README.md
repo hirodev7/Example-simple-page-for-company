@@ -1,6 +1,6 @@
 <h2>This is simple landing page with example for one Bnb. I translated in Italian and Bulgarian languages. For this progect I use Materialize modern framework</h2>
 <br>
-<h2><a href="https://bluebutterflies.github.io/Example-simple-page-for-company/bulgarian.html">Example website for un B&B</h2>
+<h2><a href="https://bluebutterflies.github.io/Example-simple-page-for-company/index.html">Example website for un B&B</h2>
 
 <div>
 <h1> LICENSE <h1/>
