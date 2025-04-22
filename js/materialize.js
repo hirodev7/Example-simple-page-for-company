@@ -21,7 +21,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   var noop = function () {},
       isFunction = function (item) {
-    // @see https://crbug.com/568448
     return typeof item === typeof noop && item.call;
   },
       isString = function (item) {
