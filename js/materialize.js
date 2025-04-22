@@ -65,7 +65,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       return this;
     }
 
-    // If already a cash collection, don't do any further processing
     if (selector.cash && selector !== win) {
       return selector;
     }
